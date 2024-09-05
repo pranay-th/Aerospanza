@@ -134,7 +134,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pythreejs==2.4.2
 pytz==2024.1
-pywin32==306
 PyYAML==6.0.1
 redis==5.0.8
 referencing==0.35.1
